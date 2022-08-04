@@ -1,0 +1,7 @@
+# Intro
+
+Here, the variable is assigned:
+
+```{r}
+object_from_intro <- list(first = "first element", second = "second element")
+``` 

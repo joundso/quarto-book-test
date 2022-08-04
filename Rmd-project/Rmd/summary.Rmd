@@ -1,0 +1,6 @@
+# Summary
+
+The result from the previous report is included here:
+
+- `object_from_intro$first` = "`r object_from_intro$first`",
+- `object_from_intro$second` = "`r object_from_intro$second`".

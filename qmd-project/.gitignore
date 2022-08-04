@@ -3,12 +3,14 @@
 
 ## Single files:
 !/.gitignore
-!/NEWS.md
-!/README.md
+!/_quarto.yml
+!/quarto-test.Rproj
 
 ## Folders:
-!/qmd-project/
-!/Rmd-project/
+!/qmd/
+/qmd/*
+!/qmd/*.qmd
+
 
 ## Ignore all log-related files:
 **/*[Ll]og*

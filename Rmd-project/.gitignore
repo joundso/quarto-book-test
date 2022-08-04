@@ -3,12 +3,16 @@
 
 ## Single files:
 !/.gitignore
-!/NEWS.md
-!/README.md
+!/Rmd-test.Rproj
+!/index.Rmd
+!/_bookdown.yml
+!/_output.yml
 
 ## Folders:
-!/qmd-project/
-!/Rmd-project/
+!/Rmd/
+/Rmd/*
+!/Rmd/*.Rmd
+
 
 ## Ignore all log-related files:
 **/*[Ll]og*

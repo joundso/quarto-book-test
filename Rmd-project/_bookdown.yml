@@ -1,0 +1,8 @@
+title: "bookdownproj"
+output_dir: docs
+delete_merged_file: true
+rmd_files:
+  - "index.Rmd"
+  - "Rmd/intro.Rmd"
+  - "Rmd/summary.Rmd"
+
