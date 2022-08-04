@@ -1,3 +1,6 @@
 # Summary
 
-The result affected the first object with content "`r object_from_intro$first`" and the 2nd object with content "`r object_from_intro$second`".
+Here, the variable from the previous rendered document will be loaded:
+
+- `object_from_intro$first` = "`r object_from_intro$first`" and 
+- `object_from_intro$second` = "`r object_from_intro$second`".
