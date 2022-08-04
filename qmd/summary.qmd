@@ -1,0 +1,3 @@
+# Summary
+
+The result affected the first object with content "`r object_from_intro$first`" and the 2nd object with content "`r object_from_intro$second`".
