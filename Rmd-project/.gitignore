@@ -13,6 +13,12 @@
 /Rmd/*
 !/Rmd/*.Rmd
 
+!/docs/
+/docs/*
+!/docs/_main.html
+!/docs/reference-keys.txt
+!/docs/search_index.json
+
 
 ## Ignore all log-related files:
 **/*[Ll]og*
