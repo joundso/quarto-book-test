@@ -17,3 +17,5 @@
 ## Ignore all log-related files:
 **/*[Ll]og*
 **/*.log
+
+/.quarto/
