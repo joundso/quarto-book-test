@@ -5,6 +5,7 @@
 !/.gitignore
 !/_quarto.yml
 !/quarto-test.Rproj
+!/index.qmd
 
 ## Folders:
 !/qmd/
@@ -15,3 +16,5 @@
 ## Ignore all log-related files:
 **/*[Ll]og*
 **/*.log
+
+/.quarto/
