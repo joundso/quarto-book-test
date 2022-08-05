@@ -3,6 +3,7 @@
 
 ## Single files:
 !/.gitignore
+!/README.md
 !/_quarto.yml
 !/quarto-test.Rproj
 !/index.qmd
