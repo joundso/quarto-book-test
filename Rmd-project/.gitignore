@@ -3,6 +3,7 @@
 
 ## Single files:
 !/.gitignore
+!/README.md
 !/Rmd-test.Rproj
 !/index.Rmd
 !/_bookdown.yml
